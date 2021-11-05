@@ -56,8 +56,6 @@ for (int y = 0; y < qr1.getSize(); y++) {
     }
 }
 ```
-```
-
 
 License
 -------
