@@ -1,6 +1,8 @@
 QR Code generator library
 =========================
 
+A Tool that generates QR codes.
+
 Features
 --------
 
@@ -26,12 +28,8 @@ Optional advanced features (Java only):
 
 More information about QR Code technology and this library's design can be found on the project home page.
 
-
 Examples
 --------
-
-
-C++ language:
 
 ```c++
 #include <string>
